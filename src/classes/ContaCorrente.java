@@ -7,5 +7,9 @@ public class ContaCorrente {
 	public double getSaldo() {
 		return this.saldo;
 	}
+	
+	public String getTitular(){
+		return this.titular;
+	}
 
 }
